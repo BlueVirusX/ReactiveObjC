@@ -1471,8 +1471,7 @@
 				57A4D2431BA13F9700F7D4B1 /* tvOS */,
 				D047263C19E49FE8006002AA /* README.md */,
 			);
-			name = Configuration;
-			path = Carthage/Checkouts/xcconfigs;
+			path = Configuration;
 			sourceTree = "<group>";
 		};
 		D047262619E49FE8006002AA /* Base */ = {
@@ -1965,10 +1964,9 @@
 			};
 			buildConfigurationList = D04725E419E49ED7006002AA /* Build configuration list for PBXProject "ReactiveObjC" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 			);
 			mainGroup = D04725E019E49ED7006002AA;
